@@ -1,9 +1,8 @@
-
 <!DOCTYPE html>
 <html>
 <head>
 	<meta charset="UTF-8">
-	<title>Ozan Çalışkan Kişisel Web Sitesi</title>
+	<title>Ozan Çalışkan -Oyun ve web tasarım Uzmanı</title>
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
 	<link rel="stylesheet" href="style.css">
 </head>
@@ -26,38 +25,27 @@
 
 	<section class="hero">
 		<div class="container">
-			<h1>Merhaba, ben Ozan Çalışkan.</h1>
-			<p>Web tasarımcısı ve geliştiriciyim. Kendimi sürekli geliştirmeye çalışıyorum ve en son teknolojileri kullanarak müşterilerim için özelleştirilmiş web siteleri oluşturuyorum.</p>
+			<h1>Ozan Çalışkan</h1>
+			<h2>Ses ve HDMI Uzmanı</h2>
+			<p>Ben Ozan Çalışkan, Oyun ve web tasarım konusunda uzmanlaşmış bir teknik destek uzmanıyım.</p>
+			<a href="#" class="cta">Hemen iletişime geçin</a>
 		</div>
 	</section>
 
 	<section class="about">
 		<div class="container">
 			<h2>Hakkımda</h2>
-			<p>Ben Ozan Çalışkan, 1990 İstanbul doğumluyum. 2012 yılında Marmara Üniversitesi'nden mezun oldum ve web tasarımı ve geliştirme konusunda kendimi geliştirmeye başladım. Şu anda bağımsız bir web tasarımcısı ve geliştiricisi olarak çalışıyorum.</p>
+			<p>Ben Ozan Çalışkan, 1991 İstanbul doğumluyum veOyun ve Web tasarım konusunda uzmanlaşmış bir teknik destek uzmanıyım. </p>
 		</div>
 	</section>
 
-	<section class="skills">
+</section class="skills">
 		<div class="container">
 			<h2>Becerilerim</h2>
-			<ul>
-				<li>HTML</li>
-				<li>CSS</li>
-				<li>Javascript</li>
-				<li>jQuery</li>
-				<li>Bootstrap</li>
-				<li>WordPress</li>
-				<li>PHP</li>
-				<li>MySQL</li>
-			</ul>
-		</div>
-	</section>
-
-	<section class="portfolio">
-		<div class="container">
-			<h2>Portfolyo</h2>
-			<div class="project">
-				<img src="project1.jpg" alt="Proje 1">
-				<h3>Proje 1</h3>
-				<p>Bu proje için müşterimin ihtiyaçlarını analiz ettim
+			<ul/>
+				<li>Oyun kodlama</li>
+				<li>Html kodlama</li>
+				<li>C#</li>
+				<li>C++</li>
+				<li>Javascript </li>
+           </div>
